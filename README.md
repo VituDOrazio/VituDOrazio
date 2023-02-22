@@ -17,7 +17,7 @@
 ##
 
 <div>
-  <a href = "mailto:bortvitor40@gmail.com?subject=Gostei do seu ReadMe&body=Olá! Vitor, vim pelo seu GitHub..."><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vitor-hugo-a79a76249/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:bortvitor40@gmail.com?subject=Gostei do seu ReadMe&body=Olá! Vitor<br>Vim pelo seu GitHub..."><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/vitubortoluzzi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
